@@ -1,0 +1,3 @@
+<?php
+/** Style-owned default configuration. */
+return array('name'=>'Webzine Monochrome','description'=>'A compact monochrome editorial Classic Theme with a dark rail, fine rules and a newspaper reading hierarchy.','status'=>'MONO / EDITORIAL INDEX','defaults'=>array('frame_width'=>1080,'rail_width'=>54,'bottom_height'=>54,'ink'=>'#202429','muted'=>'#5b6670','paper'=>'#f8f9fa','surface'=>'#edf0f2','background'=>'#dce1e5','line'=>'#cdd3d8','accent'=>'#384e62','on_accent'=>'#ffffff','rail_background'=>'#202429','rail_ink'=>'#eef2f5','home_kicker'=>'FIELD NOTES / AN INDEPENDENT JOURNAL','latest_count'=>8,'body_font'=>'serif','density'=>'comfortable','archive_view'=>'list'),'controls'=>array());
